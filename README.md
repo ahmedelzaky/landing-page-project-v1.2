@@ -56,4 +56,4 @@ navList.addEventListener("click", (event) => {
 
 # License
 
-[udacity(https://www.udacity.com/)]
+[udacity](https://www.udacity.com/)
