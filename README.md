@@ -2,7 +2,6 @@
 
 # Demo-Preview
 
-# Installation
 
 # Development
 
